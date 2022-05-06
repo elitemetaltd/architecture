@@ -1,0 +1,3 @@
+= Elite Meta's System Architecture
+
+image::EliteMeta-SystemArchitecture.jpg[]
